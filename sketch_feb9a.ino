@@ -93,6 +93,6 @@ void loop() {
     lcd.print("Motor= OFF");
   }
 
-  // Tunda selama 200 milidetik
-  delay(200);
+  // Tunda selama 90 milidetik
+  delay(90);
 }
